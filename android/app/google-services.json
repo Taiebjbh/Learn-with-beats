@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301075229208",
+    "project_id": "learn-with-the-beats",
+    "storage_bucket": "learn-with-the-beats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301075229208:android:75e1c297ccf3fb7c7d316d",
+        "android_client_info": {
+          "package_name": "com.example.finale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301075229208-a3gps7gm1dlhbqrt4h944o3dple0q0be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeLp6pWEdVWO9KsYRbyZwIGohdgZSP78k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301075229208-a3gps7gm1dlhbqrt4h944o3dple0q0be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
